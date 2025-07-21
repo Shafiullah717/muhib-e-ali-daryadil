@@ -125,7 +125,7 @@ export const projects: Project[] = [
     title: "Food Distribution Drive",
     shortDescription: "Regularly providing essential food supplies to families in need across various localities.",
     longDescription: "Our ongoing Food Distribution Drive is a cornerstone of our humanitarian efforts. We organize monthly campaigns to deliver nutritious food packages to vulnerable families, ensuring they have access to basic sustenance. Each package is carefully curated to meet dietary needs, providing relief and hope to hundreds of individuals.",
-    image: "/assets/images/projects/food-distribution-1.jpg",
+    image: "/assets/images/projects/medical-aid-1.jpg",
     galleryImages: [
       { src: "/assets/images/projects/food-distribution-g1.jpg", alt: "Volunteers packing food" },
       { src: "/assets/images/projects/food-distribution-g2.jpg", alt: "Food distribution to families" },
@@ -145,7 +145,7 @@ export const projects: Project[] = [
     title: "Educational Support Program",
     shortDescription: "Supporting children's education by providing scholarships, school supplies, and tuition assistance.",
     longDescription: "The Educational Support Program aims to break the cycle of poverty by investing in the future of underprivileged children. We provide scholarships, school uniforms, textbooks, and stationery to ensure that financial barriers do not hinder their access to quality education. Our goal is to empower the next generation with knowledge and skills.",
-    image: "/assets/images/projects/education-support-1.jpg",
+    image: "/assets/images/projects/medical-aid-1.jpg",
     galleryImages: [
       { src: "/assets/images/projects/education-support-g1.jpg", alt: "Children studying with new books" },
       { src: "/assets/images/projects/education-support-g2.jpg", alt: "Volunteer teaching session" },
