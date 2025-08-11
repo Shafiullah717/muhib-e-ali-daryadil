@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 MUHIB-E-ALI-DARYADIL — Humanitarian Welfare Organization
 
-## Getting Started
+A responsive and modern **Next.js** website for the MUHIB-E-ALI-DARYADIL welfare organization.  
+Showcasing the mission, projects, gallery, and ways for supporters to contribute to humanitarian causes.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🔹 **Responsive Design** – Works seamlessly on all devices.
+- 🔹 **Projects Section** – Highlights various welfare initiatives.
+- 🔹 **Gallery Page** – Displays images of activities and events.
+- 🔹 **Donation Page** – Front-end ready for payment integration.
+- 🔹 **Contact Page** – Easy communication with the organization.
+- 🔹 **Static Data Driven** – Content managed from local data files.
+- 🔹 **Fast & Optimized** – Built with Next.js for speed and performance.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Preview
 
-## Learn More
+![MUHIB-E-ALI-DARYADIL Website Preview](public/preview_img.png)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js** – React framework for SSR & SSG
+- **TypeScript** – Strongly typed JavaScript
+- **CSS** – Styling and layout
+- **Vercel** – Deployment platform
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Getting Started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/Shafiullah717/muhib-e-ali-daryadil.git
+   ```
+2. **Navigate to the project folder**
+   ```sh
+   cd muhib-e-ali-daryadil
+   ```
+3. **Install dependencies**
+   ```sh
+   npm install
+   ```
+4. **Run the development server**
+   ```sh
+   npm run dev
+   ```
+5. **Open in browser**  
+   Go to 👉 `http://localhost:3000`
+
+---
+
+## 🌎 Live Demo
+
+🔗 [View Live Website](https://muhib-e-ali-daryadil.vercel.app/)
+
+---
+
+## 🎯 Contributing
+
+Contributions are welcome! 🎉  
+- Fork the repository  
+- Create a new branch for your feature/fix  
+- Submit a Pull Request 🚀
+
+---
+
+## 📬 Contact
+
+📧 Email: shafiullahcheema@gmail.com  
+🐦 GitHub: [Shafiullah717](https://github.com/Shafiullah717)  
+💼 LinkedIn: [Shafi Ullah](https://www.linkedin.com/in/shafi-ullah-086b83284/)  
+
+---
+
+💙 If you like this project, don’t forget to **star** it on GitHub! ⭐
